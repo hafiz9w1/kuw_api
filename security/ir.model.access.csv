@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+kuw_api.access_pcv_api_handler_user,access_pcv_api_handler,model_pcv_api_handler,kuw_api.group_pcv_api_user,1,0,0,0
+kuw_api.access_pcv_api_handler_manager,access_pcv_api_handler,model_pcv_api_handler,kuw_api.group_pcv_api_manager,1,1,1,1
+kuw_api.access_pcv_api_handler_log_user,access_pcv_api_handler_log,model_pcv_api_handler_log,kuw_api.group_pcv_api_user,1,0,0,0
+kuw_api.access_pcv_api_handler_log_manager,access_pcv_api_handler_log,model_pcv_api_handler_log,kuw_api.group_pcv_api_manager,1,1,1,1
